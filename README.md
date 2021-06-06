@@ -1,5 +1,3 @@
-# direct
-web panel
 <?php 
 //script by MR X
 if (!empty($_GET['error'])) {
