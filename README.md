@@ -1,2 +1,2 @@
 # direct
-web pane;
+web panel
